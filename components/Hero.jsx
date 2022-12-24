@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import css from '../styles/Hero.module.css'
-import Sushi from '../assets/Sushi1.png'
+import Sushi from '../assets/sushi1.png'
 import HeroImage from '../assets/HeroImage.png'
 import Sushi4 from '../assets/sushi-box-4.jpg'
 import Link from 'next/link'
